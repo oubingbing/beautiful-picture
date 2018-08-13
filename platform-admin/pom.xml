@@ -17,13 +17,13 @@
     <dependencies>
         <dependency>
             <artifactId>model</artifactId>
-            <groupId>come.kucaroom</groupId>
+            <groupId>com.kucaroom</groupId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
         <dependency>
             <artifactId>util</artifactId>
-            <groupId>come.kucaroom</groupId>
+            <groupId>com.kucaroom</groupId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
